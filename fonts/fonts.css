@@ -1,0 +1,22 @@
+/* Infini */
+
+@font-face {
+	font-family: 'Infini';
+	font-style: normal;
+	font-weight: 400;
+	src:	url("commercial/infini-romain.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'Infini';
+	font-style: normal;
+	font-weight: 700;
+	src:	url("commercial/infini-gras.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'Infini';
+	font-style: italic;
+	font-weight: 400;
+	src:	url("commercial/infini-italique.otf") format("opentype");
+}
